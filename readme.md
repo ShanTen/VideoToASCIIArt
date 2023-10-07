@@ -13,7 +13,7 @@ The repository consists of two scripts, one that converts a video to ASCII art a
 ### Requirements/Perquisites
 1. [Python 3.6+](https://www.python.org/downloads/)
 2. [ffmpeg](https://ffmpeg.org/download.html) (make sure to add it to your path)
-3. A video file (you can use [yt-dlp](https://github.com/yt-dlp/yt-dlp) to download videos from youtube)
+3. A video fil (use one with green screen like [this one]()) (you can use [yt-dlp](https://github.com/yt-dlp/yt-dlp) to download videos from youtube)
 4. A terminal that supports ANSI escape codes (I use [windows terminal](https://github.com/microsoft/terminal))
 5. [ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter)
 
@@ -22,6 +22,6 @@ The repository consists of two scripts, one that converts a video to ASCII art a
 2. Install the requirements `pip install -r requirements.txt`
 3. run `ConvertVideoToAsciiFramesFull.cmd <SomeVideo.ext>` 
 4. W A I T. (not too long)
-5. run `python3 server.py`
+5. run `python server.py`
 6. In another tab/window run `curl localhost:7070` (or whatever port you set it to)
 7. Enjoy! (optional)
