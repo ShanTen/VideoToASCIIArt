@@ -6,7 +6,7 @@ I made [this](https://github.com/ShanTen/FortniteDDAnimated) a while back now th
 
 The repository consists of two scripts, one that converts a video to ASCII art and the other a flask server to actually handle the curl request.
 
-![](https://cdn.discordapp.com/attachments/1070991530015338576/1160196734186692698/output.gif)
+![](https://raw.githubusercontent.com/ShanTen/staticHaver/master/AGR_demo.gif)
 
 ## How to use
 
